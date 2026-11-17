@@ -50,4 +50,4 @@ Your boards, notes and documents are files in your Spaces' folders. NoteS keeps 
 
 ## License
 
-[MIT](LICENSE) © 2026 Lucas Salomão Boschiroli
+© 2026 Lucas Salomão Boschiroli. All rights reserved. NoteS is free to download and use; it may not be copied, modified, redistributed or sold without permission. See [LICENSE](LICENSE).
